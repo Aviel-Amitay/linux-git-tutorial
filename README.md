@@ -1,4 +1,4 @@
-# 🚀 DevOps Bar-Ilan
+# 🚀 Linux And Git Turotial
 
 ---
 
@@ -6,20 +6,21 @@
 
 
 <div align="center">
-  <img src="https://repobeats.axiom.co/api/embed/a3cbdb3742a96140356d57a6d2df0ab785b43b22.svg">
+  <img src="https://repobeats.axiom.co/api/embed/c786e585b0ec20833dfbae4509e68f33c4456f98.svg">
 </div>
 
 ---
 
 ## Table of content
 
-- [🚀 DevOps Bar-Ilan](#-devops-bar-ilan)
+- [🚀 Linux And Git Turotial](#-linux-and-git-turotial)
     - [📌 Pre-Requirements](#-pre-requirements)
       - [Mac OS](#-Mac-OS)
       - [Linux OS](#linux-os)
       - [Windows OS](#windows)
   - [🛠 Installation \& Usage](#-installation--usage)
     - [Follow the Instruaction of file lab-instructions.md](./lab-instructions.md)
+    - [Nice Cheat Sheet](#cheat-sheet)
   - [🙌 Contributions](#-contributions)
 
 ---
@@ -77,8 +78,8 @@ brew install git
 
 - Install git package
 ```bash
-apt-get update
-apt install git
+sudo apt-get update
+sudo apt install git
 ```
 ---
 

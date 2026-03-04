@@ -10,7 +10,7 @@ In this lab, you will practice essential Git commands including branching, commi
 #### Step 1:Fork the Repository
 
 - Start by forking the repository to your own GitHub account:
-- Click the "Fork" button in the upper right corner
+- Click on the green "Fork" button in the upper right corner
 
 ```url
 https://github.com/Aviel-Amitay/linux-git-tutorial
