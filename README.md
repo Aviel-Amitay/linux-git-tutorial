@@ -20,7 +20,7 @@
       - [Windows OS](#windows)
   - [🛠 Installation \& Usage](#-installation--usage)
     - [Follow the Instruaction of file lab-instructions.md](./lab-instructions.md)
-    - [Nice Cheat Sheet](#cheat-sheet)
+    - [Nice Cheat Sheet](./CheatSheet.md)
   - [🙌 Contributions](#-contributions)
 
 ---
